@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
+I'm Shiroul, a Computer Science student with a passion for dynamic programming and competitive programming. I enjoy creating simple individual projects and honing my problem-solving skills through coding challenges.
 
-<!--
-**shiroul/shiroul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+🔭 Currently working on: Sharpening my skills in dynamic programming.
+🌱 Currently learning: Advanced algorithms and optimizing competitive programming techniques.
+💬 Ask me about: Problem-solving strategies, dynamic programming, or tips for competitive programming.
+⚡ Fun fact: I’ve achieved gold level in Problem Solving and completed the 30 Days of Code challenge on HackerRank!
+🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🏆 Achievements
+  🥇 Gold Level in Problem Solving on HackerRank.
+  📅 Completed the 30 Days of Code challenge on HackerRank.
