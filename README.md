@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋<br>
 I'm Shiroul, a Computer Science student with a passion for dynamic programming and competitive programming. I enjoy creating simple individual projects and honing my problem-solving skills through coding challenges.
 
 🌟 About Me
